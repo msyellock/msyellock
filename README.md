@@ -12,7 +12,7 @@ consequences. It transfers better than I expected.
 
 **What I'm working on**
 
-[- [`homelab`](https://github.com/[msyellock/homelab) — four machines,](https://github.com/msyellock) 
+[- [`homelab`](https://github.com/msyellock/homelab) — four machines, 
   bare-metal Ubuntu Server. Provisioning, LVM storage, systemd, 
   SMART monitoring. Building toward Ansible, containers, and k3s.
 - ISC2 Certified in Cybersecurity (CC)
