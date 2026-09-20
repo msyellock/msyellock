@@ -12,9 +12,10 @@ consequences. It transfers better than I expected.
 
 **What I'm working on**
 
-- [`homelab`](https://github.com/msyellock/homelab) — four machines, 
-  bare-metal Ubuntu Server. Provisioning, LVM storage, systemd, 
-  SMART monitoring. Building toward Ansible, containers, and k3s.
+- [`homelab`](https://github.com/msyellock/homelab) — a Windows workstation and three Ubuntu
+  hosts, plus a repurposed phone running llama.cpp for a distributed LLM council.
+  Provisioning, LVM storage, SSH hardening, UFW, SMART monitoring and an Ansible
+  control node. Building toward containers and k3s.
 - ISC2 Certified in Cybersecurity (CC)
 
 
